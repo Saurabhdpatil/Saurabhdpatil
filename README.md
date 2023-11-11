@@ -5,7 +5,7 @@ Hello! 😊 My name is Saurabh Patil and I am currently in my Second-year pursui
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-patil-5066aa20a/)
 
-![GitHub Views](https://github.com/Saurabhdpatil)
+
 
 
 # 💻 Tech Stack:
